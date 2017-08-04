@@ -19,6 +19,10 @@ TBA
 
 ## Books
 
+Lubanovic, Bill. Introducing Python. 1st ed. O’Reilly Media, Inc., 2015.
+ 
+Miller, Brad Miller., Ranum, David. Problem Solving with Algorithms and Data Structures. 3rd ed. The University of Auckland., 2013.
+ 
 ## Other useful links
 
 ## FAQ
